@@ -78,3 +78,8 @@ DerivedDataCache/*
 
 # Rider plugin
 Plugins/*/RiderLink/*
+
+# Rider
+**/.idea/**/*.iml
+**/.idea/**/contentModel.xml
+**/.idea/**/modules.xml
